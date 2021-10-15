@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Aleksandra605/goit-react-hw-06-phonebook/static/css/main.9030333e.chunk.css",
-    "main.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/main.5c1e990d.chunk.js",
-    "main.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/main.5c1e990d.chunk.js.map",
-    "runtime-main.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/runtime-main.f026b9e4.js",
-    "runtime-main.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/runtime-main.f026b9e4.js.map",
-    "static/js/2.af160322.chunk.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.af160322.chunk.js",
-    "static/js/2.af160322.chunk.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.af160322.chunk.js.map",
-    "static/js/3.d4e92d54.chunk.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/3.d4e92d54.chunk.js",
-    "static/js/3.d4e92d54.chunk.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/3.d4e92d54.chunk.js.map",
+    "main.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/main.f0524dc1.chunk.js",
+    "main.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/main.f0524dc1.chunk.js.map",
+    "runtime-main.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/runtime-main.85369a6e.js",
+    "runtime-main.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/runtime-main.85369a6e.js.map",
+    "static/js/2.ac5b1719.chunk.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.ac5b1719.chunk.js",
+    "static/js/2.ac5b1719.chunk.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.ac5b1719.chunk.js.map",
+    "static/js/3.cd7b76ca.chunk.js": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/3.cd7b76ca.chunk.js",
+    "static/js/3.cd7b76ca.chunk.js.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/3.cd7b76ca.chunk.js.map",
     "index.html": "/Aleksandra605/goit-react-hw-06-phonebook/index.html",
     "static/css/main.9030333e.chunk.css.map": "/Aleksandra605/goit-react-hw-06-phonebook/static/css/main.9030333e.chunk.css.map",
-    "static/js/2.af160322.chunk.js.LICENSE.txt": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.af160322.chunk.js.LICENSE.txt"
+    "static/js/2.ac5b1719.chunk.js.LICENSE.txt": "/Aleksandra605/goit-react-hw-06-phonebook/static/js/2.ac5b1719.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f026b9e4.js",
-    "static/js/2.af160322.chunk.js",
+    "static/js/runtime-main.85369a6e.js",
+    "static/js/2.ac5b1719.chunk.js",
     "static/css/main.9030333e.chunk.css",
-    "static/js/main.5c1e990d.chunk.js"
+    "static/js/main.f0524dc1.chunk.js"
   ]
 }
