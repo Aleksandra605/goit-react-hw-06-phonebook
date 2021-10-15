@@ -10,7 +10,7 @@ const initialContacts = [
 
 const contactsReducer = createReducer(initialContacts, {
   [types.ADD_CONTACT]: (state, action) => {
-    let similar = state.find(item => item.name === action.payload.name);
+    let similar = state.find((item) => item.name === action.payload.name);
 
     if (similar !== undefined) {
       alert(`${action.payload.name} is already in contacts.`);
@@ -19,7 +19,7 @@ const contactsReducer = createReducer(initialContacts, {
   },
 
   [types.DELETE_CONTACT]: (state, action) => {
-    return state.filter(el => {
+    return state.filter((el) => {
       return el.id !== action.payload;
     });
   },
@@ -32,3 +32,5 @@ const filterReducer = createReducer('', {
 });
 
 export { contactsReducer, filterReducer };
+
+// export default rootReducer;
